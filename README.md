@@ -94,4 +94,4 @@ __Marlene Palka__ [palkamarlene](https://github.com/palkamarlene); marlene.palka
 
 ## License
 
-This project is licensed under the xyz License - see the [LICENSE](LICENSE) file for details
+This project is licensed under the GNU General Public License v3.0 - see the [LICENSE](LICENSE) file for details

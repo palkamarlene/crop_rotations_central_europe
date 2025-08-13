@@ -1,4 +1,4 @@
-# Crop roations in Central europe
+# Crop rotations in Central europe
 
 This repository is the official implementation of [Palka et al. (2025)](https://xyz).
 

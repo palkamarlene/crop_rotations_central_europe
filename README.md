@@ -1,6 +1,6 @@
 # Crop rotations in Central europe
 
-This repository is the official implementation of [Palka et al. (2025)](https://xyz).
+This repository is the official implementation of [Palka et al. (2025)](https://doi.org/10.1016/j.agsy.2025.104522).
 
 For this paper, we
 * combine  __field-specific cropping histories__, __neighbouring rotations__, __environmental conditions__, __agronomic rules__ for good rotation practice, crop __commodity prices__, and agricultural __policies and subsidies__
@@ -86,7 +86,7 @@ All of the above is available under licence CC BY 4.0 (CC BY 3.0 for older versi
 
 ## Publication
 
- __Cropping history, agronomic rules, and commodity prices shape crop rotations across Central Europe__
+ __[Cropping history, agronomic rules, and commodity prices shape crop rotations across Central Europe](https://doi.org/10.1016/j.agsy.2025.104522)__
 
 ## Authors
 
